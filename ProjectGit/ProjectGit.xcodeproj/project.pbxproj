@@ -14,6 +14,7 @@
 		B4E1F8212C27C7EC0086AE4D /* ProjectGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E1F8202C27C7EC0086AE4D /* ProjectGitTests.swift */; };
 		B4E1F82B2C27C7EC0086AE4D /* ProjectGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E1F82A2C27C7EC0086AE4D /* ProjectGitUITests.swift */; };
 		B4E1F82D2C27C7EC0086AE4D /* ProjectGitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E1F82C2C27C7EC0086AE4D /* ProjectGitUITestsLaunchTests.swift */; };
+		B4E1F83A2C27DDB40086AE4D /* GamePage2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4E1F8392C27DDB40086AE4D /* GamePage2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B4E1F8262C27C7EC0086AE4D /* ProjectGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4E1F82A2C27C7EC0086AE4D /* ProjectGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectGitUITests.swift; sourceTree = "<group>"; };
 		B4E1F82C2C27C7EC0086AE4D /* ProjectGitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectGitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B4E1F8392C27DDB40086AE4D /* GamePage2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamePage2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B4E1F80F2C27C7EB0086AE4D /* ProjectGitApp.swift */,
 				B4E1F8112C27C7EB0086AE4D /* ContentView.swift */,
+				B4E1F8392C27DDB40086AE4D /* GamePage2.swift */,
 				B4E1F8132C27C7EC0086AE4D /* Assets.xcassets */,
 				B4E1F8152C27C7EC0086AE4D /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B4E1F83A2C27DDB40086AE4D /* GamePage2.swift in Sources */,
 				B4E1F8122C27C7EB0086AE4D /* ContentView.swift in Sources */,
 				B4E1F8102C27C7EB0086AE4D /* ProjectGitApp.swift in Sources */,
 			);
